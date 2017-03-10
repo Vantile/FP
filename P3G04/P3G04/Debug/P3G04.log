@@ -1,0 +1,14 @@
+﻿Build started 26/06/2015 10:32:21.
+     1>Project "c:\Users\Jose\documents\visual studio 2012\Projects\P3G04\P3G04\P3G04.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt P3G04.cpp
+         P3G04.cpp
+     1>c:\users\jose\documents\visual studio 2012\projects\p3g04\p3g04\p3g04.cpp(103): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\jose\documents\visual studio 2012\Projects\P3G04\Debug\P3G04.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\jose\documents\visual studio 2012\Projects\P3G04\Debug\P3G04.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\jose\documents\visual studio 2012\Projects\P3G04\Debug\P3G04.lib" /MACHINE:X86 Debug\P3G04.obj
+         P3G04.vcxproj -> c:\users\jose\documents\visual studio 2012\Projects\P3G04\Debug\P3G04.exe
+     1>Done Building Project "c:\Users\Jose\documents\visual studio 2012\Projects\P3G04\P3G04\P3G04.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.41

@@ -1,0 +1,21 @@
+----------------------------------------------------------------
+Acerca de ¡Pasa la calculadora!
+
+Practica 1 Version 3.1 ()
+
+Fundamentos de Programacion
+Facultad de Informatica
+Universidad Complutense de Madrid
+
+Autores:
+Jose Antonio Bernal Perez (1º C)
+Javier Muñoz Sanchez (1º C)
+
+Instrucciones: Dos jugadores (persona y ordenador) juegan de la 
+siguiente manera: El primero inicia el juego pulsando un digito 
+y ENTER. El segundo pulsa un digito que tiene que estar en la 
+misma fila o columna y no ser el mismo numero. Ese numero se 
+suma al anterior, acumulandose durante la partida. El primer 
+jugador en llegar a 31 pierde.
+
+----------------------------------------------------------------

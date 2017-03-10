@@ -1,0 +1,4 @@
+Numero de veces que se ha utilizado el programa: 3
+Numero total de partidas jugadas: 3
+Numero total de partidas ganadas por el programa: 2
+Numero total de abandonos: 1

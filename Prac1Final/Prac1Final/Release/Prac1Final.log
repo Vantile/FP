@@ -1,0 +1,16 @@
+﻿Compilación iniciada a las 05/12/2014 15:22:56.
+     1>Proyecto "C:\hlocal\Prac1Final\Prac1Final\Prac1Final\Prac1Final.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\software\programacion\MSVStudio2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Prac1Final.cpp
+         Prac1Final.cpp
+     1>Prac1Final.cpp(15): warning C4244: 'argumento' : conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+       Link:
+         C:\software\programacion\MSVStudio2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\hlocal\Prac1Final\Prac1Final\Release\Prac1Final.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\hlocal\Prac1Final\Prac1Final\Release\Prac1Final.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\hlocal\Prac1Final\Prac1Final\Release\Prac1Final.lib" /MACHINE:X86 /SAFESEH Release\Prac1Final.obj
+         Generando código
+         Generación de código finalizada
+         Prac1Final.vcxproj -> C:\hlocal\Prac1Final\Prac1Final\Release\Prac1Final.exe
+     1>Compilación del proyecto terminada "C:\hlocal\Prac1Final\Prac1Final\Prac1Final\Prac1Final.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.99

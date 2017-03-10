@@ -1,0 +1,4 @@
+Numero de veces que se ha utilizado el programa: 6
+Numero total de partidas jugadas: 29
+Numero total de partidas ganadas por el programa: 17
+Numero total de abandonos: 2
